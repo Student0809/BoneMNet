@@ -1,6 +1,7 @@
 # BoneMorphoNet: A Python Toolkit for Fine-Grained Bone Marrow Cell Classification  
 
 **BoneMorphoNet** is a multi-modal learning-based Python toolkit designed to provide intelligent analysis support for hematological disease diagnosis. Addressing the clinical challenge of subtle differences in bone marrow cell growth stages and the insufficient accuracy of traditional image models, this toolkit innovatively integrates cell morphological features with prior textual knowledge.  
+https://openaipublic.azureedge.net/clip/models/40d365715913c9da98579312b702a82c18be219cc2a73407c4526f58eba950af/ViT-B-32.pt
 
 ## Key Features  
 
