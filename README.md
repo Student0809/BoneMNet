@@ -47,26 +47,6 @@ model = BoneMorphoNetClassifier(pretrained=True)
 results = model.analyze(slide_image, clinical_text)
 ```
 
-## Documentation  
-
-📚 [Full Documentation](https://github.com/yourusername/BoneMorphoNet/wiki)  
-🎯 [Clinical Use Cases](https://github.com/yourusername/BoneMorphoNet/wiki/Clinical-Implementation)  
-
-## Citation  
-
-If you use BoneMorphoNet in your research, please cite:  
-
-```bibtex
-@software{BoneMorphoNet,
-  author = {Your Name},
-  title = {BoneMorphoNet: Multi-modal Bone Marrow Cell Classification Toolkit},
-  year = {2023},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{https://github.com/yourusername/BoneMorphoNet}}
-}
-```
-
 ## License  
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.  
