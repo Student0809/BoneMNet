@@ -51,6 +51,3 @@ results = model.analyze(slide_image, clinical_text)
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.  
 
-![BoneMorphoNet Pipeline](https://github.com/yourusername/BoneMorphoNet/blob/main/docs/pipeline.png?raw=true)  
-
-*Developed for better hematological diagnostics* 🩸🔬
